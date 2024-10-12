@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Local\\": "/local"
+        }
+    },
+    
+    "require": {
+        "symfony/var-dumper": "^6.4"
+    }
+}
